@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "DCyO6mjSVjxSS9tEClpWt8gmZIOsMc8f+0vPwK6OJOKOFj09GHWYp7Jb6By7dwgt0opkuVNnVMv6JkQ22QkNtw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Yaroslav Bahdai\\source\\Robot\\RobotConsoleApp\\RobotConsoleApp\\RobotConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yaroslav Bahdai\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\Yaroslav Bahdai\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
